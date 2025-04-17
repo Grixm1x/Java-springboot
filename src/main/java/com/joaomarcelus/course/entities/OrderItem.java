@@ -40,6 +40,7 @@ private static final long serialVersionUID = 1L;
 	public void setOrder(Order order) {
 		id.setOrder(order);
 	}
+	
 	public Product getProduct() {
 		return id.getProduct();
 	}
